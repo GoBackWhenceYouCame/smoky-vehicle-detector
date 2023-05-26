@@ -3,6 +3,6 @@ a smoky vehicle detector based on yolov5
 
 a design about my undergraduate thesis
 
-if you could not show video on UI， maybe you should download LAV Filters
+if you are unable to play the video on the UI, you may need to download LAV Filters.
 
 requirement：pytorch、opencv、numpy and so on
